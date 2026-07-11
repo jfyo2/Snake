@@ -1,4 +1,5 @@
 This is a rewrite of the classic game "Snake" in Python/Pygame with updated graphics. 
+Date: 2017
 
 GAME HELP
 
