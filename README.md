@@ -1,7 +1,9 @@
-This is a rewrite of the classic game "Snake" in Python/Pygame with updated graphics. 
+# Snake Game with Better Graphics 
+
+This is a rewrite of the classic game "Snake" in Python/Pygame with custom graphics. 
 Date: 2017
 
-GAME HELP
+## Controls
 
 Movement is done using the keys W, A, S, D. You cannot turn in the opposite direction (ie: If you are going left you cannot turn right.)
 
