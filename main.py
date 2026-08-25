@@ -1,5 +1,5 @@
 """
-Snake game - code by Joshua O'Donoghue, as project for COMSCI 2017
+Snake game - code by jfyo2, as project for COMSCI 2017
 main.py
 
 This module is in change of creating the screen and initialising the main game loop.
